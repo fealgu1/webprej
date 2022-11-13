@@ -7,7 +7,7 @@ navbar:
     - text: "Page 1"
       href: results.html
     - text: "Links Page"
-      href: links.html
+      href: inks.html
     - text: "Code Page"
       href: code.html
 output_dir: "docs"
