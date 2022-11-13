@@ -8,6 +8,4 @@ navbar:
       href: results.html
     - text: "Code Page"
       href: code.html
-    - text: "Links"
-      href: inks.html
 output_dir: "docs"
