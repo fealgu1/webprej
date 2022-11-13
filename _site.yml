@@ -1,0 +1,16 @@
+name: "My Porfolio Template"
+navbar:
+  title: "My Porfolio Template"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Page 1"
+      href: results.html
+    - text: "Links Page"
+      href: Links.html
+    - text: "Code Page"
+      href: code.html
+output: 
+  html_document:
+  theme: lumne
+  highlight: textmate #output_dir: "docs"

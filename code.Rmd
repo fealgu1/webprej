@@ -1,0 +1,16 @@
+---
+title: "code"
+
+output: html_document
+---
+```{r, results='false',fig.show='hide'}
+samples <- rnorm(100, mean=0, sd=1)
+
+```
+
+## **The When**
+
+```{r, results='hide'}
+samples <- rnorm(100, mean=0, sd=1)
+
+```
