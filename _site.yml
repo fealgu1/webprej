@@ -10,7 +10,4 @@ navbar:
       href: Links.html
     - text: "Code Page"
       href: code.html
-output: 
-  html_document:
-  theme: lumne
-  highlight: textmate #output_dir: "docs"
+output_dir: "docs"
